@@ -48,9 +48,7 @@ lib/
 
 🖥️ Screenshots / Demo
 
-(Add screenshots here)
-(Add a short GIF/video demo if possible)
+[![Watch the video](https://img.youtube.com/vi/ckMFZA8P7f0/0.jpg)](https://youtu.be/ckMFZA8P7f0)
 
-📬 Contact
 
-If you want to use, improve, or collaborate on the project, feel free to reach out!
+
