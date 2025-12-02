@@ -1,138 +1,56 @@
-🚀 MAD GRAM – Instagram Clone (Flutter + Firebase)
+📸 MAD Gram — Instagram Clone (Flutter + Firebase)
 
-MAD GRAM is a full-featured Instagram clone built using Flutter, Firebase, and modern UI practices.
-It includes authentication, posts, likes, comments, profile management, following system, real-time updates, and more.
+MAD Gram is a fully functional Instagram clone built using Flutter and Firebase, designed to replicate core social media features with clean architecture and scalable backend.
 
-📱 Features
-🔐 Authentication
+🚀 Features
 
-Email + Password login
+🔐 Firebase Auth – Email/Password login & signup
 
-Secure Firebase Auth implementation
+👤 User Profiles – Edit profile, bio, profile picture
 
-Persistent user sessions
+🖼️ Post Uploads – Image upload with captions
 
-🏠 Home Feed
+❤️ Likes & Comments
 
-View latest posts
+👥 Follow / Unfollow Users
 
-Real-time updates using Firestore
+🔎 Search Users
 
-Double-tap to like
+📰 Home Feed – Real-time updates
 
-📤 Create Posts
+🗂️ Firestore Database – Secure storage
 
-Upload photos from gallery
+📱 Responsive UI – Supports Android & iOS
 
-Add captions
-
-Store media in Firebase Storage
-
-Auto-update feed
-
-👤 Profile Page
-
-User bio, username & profile picture
-
-Followers / Following list
-
-Edit profile info
-
-User-specific post grid
-
-Follow / Unfollow users
-
-Pagination for posts
-
-🔎 Search
-
-Search users by username
-
-Clean & fast Firestore queries
-
-❤️ Activity / Notifications
-
-View who followed you
-
-See likes / comments on your posts
-
-Real-time updates
+🧵 State Management – Provider / setState
 
 🛠️ Tech Stack
-Frontend
 
 Flutter (Dart)
 
-Provider / State Management
-
-CachedNetworkImage
-
-Material 3 UI
-
-Backend
-
-Firebase Authentication
+Firebase Auth
 
 Cloud Firestore
 
 Firebase Storage
 
-Firebase Cloud Functions (optional)
+Google Fonts
+
+Cached Network Image
 
 📂 Project Structure
 lib/
  ├── screens/
- ├── widgets/
  ├── services/
+ ├── widgets/
  ├── models/
  ├── utils/
 
-🧪 Running the App Locally
-1️⃣ Install dependencies
-flutter pub get
+🖥️ Screenshots / Demo
 
-2️⃣ Configure Firebase
+(Add screenshots here)
+(Add a short GIF/video demo if possible)
 
-Run:
+📬 Contact
 
-flutterfire configure
-
-
-Add your Google-Services files:
-
-android/app/google-services.json
-
-ios/Runner/GoogleService-Info.plist
-
-3️⃣ Run the project
-flutter run
-
-📸 Screenshots
-
-(Add your app screenshots here later to make the repo look top-tier)
-Example:
-
-/assets/screenshots/feed.png
-/assets/screenshots/profile.png
-
-📘 Learning Resources
-
-If you’re new to Flutter:
-
-https://docs.flutter.dev/get-started/codelab
-
-https://docs.flutter.dev/cookbook
-
-⭐ Support This Project
-
-If you like MAD GRAM, consider:
-
-⭐ Starring the repo
-
-🍴 Forking and improving
-
-🐛 Opening issues for bugs
-
-📝 License
-
-This project is open-source. You may modify and use it for educational purposes.
+If you want to use, improve, or collaborate on the project, feel free to reach out!
