@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "706148437269",
+    "project_id": "madgram-f10ae",
+    "storage_bucket": "madgram-f10ae.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706148437269:android:0527ecda07f62822d76d1c",
+        "android_client_info": {
+          "package_name": "com.example.mad_gram"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcXah3fpOts7e_9k1O1uRl0QqlxreYNv0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

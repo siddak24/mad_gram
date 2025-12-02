@@ -1,0 +1,2 @@
+- [x] Update import in lib/screens/main_layout.dart to use FirebaseAuth
+- [x] Replace mock User with FirebaseAuth.instance.currentUser in initState
